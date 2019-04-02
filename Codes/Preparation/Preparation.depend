@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554034395 source:d:\bolum\bm\workshops\preparation\codes\preparation\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<typeinfo>
+
