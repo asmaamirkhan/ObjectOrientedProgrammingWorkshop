@@ -10,7 +10,7 @@ I joined the workshop as a trainer, I explained the important concepts of "Objec
 
 > [See the post on LinkedIn 🤗](https://www.linkedin.com/posts/asmaa-mirkhan_university-programming-coding-activity-6520605264448753664-NU-E/) 
 
-## What have we did?
+## What have we done?
 We have implemented the class of **Matrix** with its functions operations in C++.
 
 Technically, to be able to implement it we have used object oriented programming concepts :sparkles:, such as _classes_, _class members_ and since matrix operations are relatively complicated we improved problem solving skill as well.  
