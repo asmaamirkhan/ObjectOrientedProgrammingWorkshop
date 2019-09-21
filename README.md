@@ -8,7 +8,7 @@ A repo that contains details about the workshop that I have joined as a technica
 As Computer Club at Istanbul University (İÜBK), a 2-hour workshop was organized with the participation of 56 students on 02.04.2019 within the context of the "Introduction to Programming" course.
 I joined the workshop as a trainer, I explained the important concepts of "Object Oriented Programming" and did code exercises about these concepts. 
 
-> [See the post on LinkedIn 🤗](https://www.linkedin.com/posts/asmaa-mirkhan_university-programming-coding-activity-6520605264448753664-NU-E/) 
+> [See the post on LinkedIn 🤗](https://www.linkedin.com/posts/asmaa-mirkhan_university-programming-coding-activity-6520605264448753664-NU-E/) and on [Istanbul University Computer Engineering Web Site 👩‍🎓](https://bilgisayarmuhendislik.istanbulc.edu.tr/tr/haber/bilgisayar-kulubu-introduction-to-programming-dersi-icin-yapilan-ilk-workshopu-y-570035006700420056004A00610053002D00570041003100)
 
 ## What have we done?
 We have implemented the class of **Matrix** with its functions operations in C++.
